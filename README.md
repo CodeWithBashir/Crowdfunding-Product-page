@@ -5,5 +5,5 @@
 ### https://codewithbashir.github.io/Crowdfunding-Product-page/
 
 
-I designed this Crowdfunding page using HTML and CSS no JavaScript functionalities included. \n
-The JavaScript functionalities will be included for the future.
+##### I designed this Crowdfunding page using HTML and CSS no JavaScript functionalities included.
+##### The JavaScript functionalities will be included for the future.
